@@ -1,0 +1,129 @@
+@media  (max-width: 768px) {.main-wrapper {
+margin-left: auto;
+margin-right: auto;
+width: 375px;}
+.iphone6781row0 {
+display: flex;
+margin-left: 45px;
+margin-top: 45px;
+width: 150px;
+height: 22px;
+align-items: stretch;}
+.style1 {
+color: #707070;
+font-family: 'segoeui',serif;
+font-size: 1.125em;
+margin-left: 0px;}
+.style2 {
+color: #707070;
+font-family: 'segoeui',serif;
+font-size: 1.125em;
+margin-left: 34px;}
+.style0 {
+background-color: #ffffff;
+border-left: 1px solid #707070;
+border-right: 1px solid #707070;
+border-top: 1px solid #707070;
+border-bottom: 1px solid #707070;
+position: relative;
+margin-left: 70px;
+margin-top: 0px;
+width: 200px;
+height: 200px;}
+}@media  (min-width: 768px)  and  (max-width: 920px) {.main-wrapper {
+margin-left: auto;
+margin-right: auto;
+width: 768px;}
+.iphone6781row0 {
+display: flex;
+margin-left: 92px;
+margin-top: 92px;
+width: 307px;
+height: 45px;
+align-items: stretch;}
+.style1 {
+color: #707070;
+font-family: 'segoeui',serif;
+font-size: 2.3040000000000003em;
+margin-left: 0px;}
+.style2 {
+color: #707070;
+font-family: 'segoeui',serif;
+font-size: 2.3040000000000003em;
+margin-left: 70px;}
+.style0 {
+background-color: #ffffff;
+border-left: 1px solid #707070;
+border-right: 1px solid #707070;
+border-top: 1px solid #707070;
+border-bottom: 1px solid #707070;
+position: relative;
+margin-left: 143px;
+margin-top: 0px;
+width: 410px;
+height: 410px;}
+}@media  (min-width: 920px)  and  (max-width: 1200px) {.main-wrapper {
+margin-left: auto;
+margin-right: auto;
+width: 920px;}
+.iphone6781row0 {
+display: flex;
+margin-left: 110px;
+margin-top: 110px;
+width: 368px;
+height: 54px;
+align-items: stretch;}
+.style1 {
+color: #707070;
+font-family: 'segoeui',serif;
+font-size: 2.76em;
+margin-left: 0px;}
+.style2 {
+color: #707070;
+font-family: 'segoeui',serif;
+font-size: 2.76em;
+margin-left: 83px;}
+.style0 {
+background-color: #ffffff;
+border-left: 1px solid #707070;
+border-right: 1px solid #707070;
+border-top: 1px solid #707070;
+border-bottom: 1px solid #707070;
+position: relative;
+margin-left: 172px;
+margin-top: 0px;
+width: 491px;
+height: 491px;}
+}@media  (min-width: 1200px) {.main-wrapper {
+margin-left: auto;
+margin-right: auto;
+width: 1200px;}
+.iphone6781row0 {
+display: flex;
+margin-left: 144px;
+margin-top: 144px;
+width: 480px;
+height: 70px;
+align-items: stretch;}
+.style1 {
+color: #707070;
+font-family: 'segoeui',serif;
+font-size: 3.6em;
+margin-left: 0px;}
+.style2 {
+color: #707070;
+font-family: 'segoeui',serif;
+font-size: 3.6em;
+margin-left: 109px;}
+.style0 {
+background-color: #ffffff;
+border-left: 1px solid #707070;
+border-right: 1px solid #707070;
+border-top: 1px solid #707070;
+border-bottom: 1px solid #707070;
+position: relative;
+margin-left: 224px;
+margin-top: 0px;
+width: 640px;
+height: 640px;}
+}
